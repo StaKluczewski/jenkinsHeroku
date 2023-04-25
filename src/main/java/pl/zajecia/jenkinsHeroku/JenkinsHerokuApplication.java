@@ -16,6 +16,6 @@ public class JenkinsHerokuApplication {
 
 	@GetMapping
 	public String get(){
-		return "Hello Jenkins!";
+		return "Hello Jenkins";
 	}
 }
